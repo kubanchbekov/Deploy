@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .foto {
-  background: url(./qwer.jpg);
+  background: url("./qwer.jpg");
   background-size: cover;
   height: 825px;
   width: 1520px;
